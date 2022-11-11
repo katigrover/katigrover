@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katigrover
 - 👀 I’m interested in ... new opportunities to challenge my problem-solving skills and peak my inquistive nature.
-- 🌱 I’m currently learning ... Java and Github!
+- 🌱 I’m currently learning ... Java and Github through the Promineo Tech Back-end Software Development course. 
 - 💞️ I’m looking to collaborate on ... anything! What you got?!
 - 📫 How to reach me ... Check me out on LinkedIn @ https://www.linkedin.com/in/kati-grover-02107879/
 
